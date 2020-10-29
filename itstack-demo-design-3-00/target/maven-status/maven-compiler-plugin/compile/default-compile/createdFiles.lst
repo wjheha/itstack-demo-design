@@ -1,0 +1,9 @@
+org\itstack\demo\design\floor\ShengXiangFloor.class
+org\itstack\demo\design\coat\LiBangCoat.class
+org\itstack\demo\design\floor\DerFloor.class
+org\itstack\demo\design\tile\DongPengTile.class
+org\itstack\demo\design\ceiling\LevelOneCeiling.class
+org\itstack\demo\design\Matter.class
+org\itstack\demo\design\coat\DuluxCoat.class
+org\itstack\demo\design\tile\MarcoPoloTile.class
+org\itstack\demo\design\ceiling\LevelTwoCeiling.class

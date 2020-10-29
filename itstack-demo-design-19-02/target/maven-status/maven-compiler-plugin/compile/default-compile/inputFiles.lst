@@ -1,0 +1,10 @@
+D:\Users\jwangz\file\Java资料\my_git_repo\itstack-demo-design\itstack-demo-design-19-02\src\main\java\org\itstack\demo\design\impl\DoingState.java
+D:\Users\jwangz\file\Java资料\my_git_repo\itstack-demo-design\itstack-demo-design-19-02\src\main\java\org\itstack\demo\design\State.java
+D:\Users\jwangz\file\Java资料\my_git_repo\itstack-demo-design\itstack-demo-design-19-02\src\main\java\org\itstack\demo\design\StateHandler.java
+D:\Users\jwangz\file\Java资料\my_git_repo\itstack-demo-design\itstack-demo-design-19-02\src\main\java\org\itstack\demo\design\impl\CheckState.java
+D:\Users\jwangz\file\Java资料\my_git_repo\itstack-demo-design\itstack-demo-design-19-02\src\main\java\org\itstack\demo\design\impl\OpenState.java
+D:\Users\jwangz\file\Java资料\my_git_repo\itstack-demo-design\itstack-demo-design-19-02\src\main\java\org\itstack\demo\design\impl\PassState.java
+D:\Users\jwangz\file\Java资料\my_git_repo\itstack-demo-design\itstack-demo-design-19-02\src\main\java\org\itstack\demo\design\impl\RefuseState.java
+D:\Users\jwangz\file\Java资料\my_git_repo\itstack-demo-design\itstack-demo-design-19-02\src\main\java\org\itstack\demo\design\impl\CloseState.java
+D:\Users\jwangz\file\Java资料\my_git_repo\itstack-demo-design\itstack-demo-design-19-02\src\main\java\org\itstack\demo\design\impl\EditingState.java
+D:\Users\jwangz\file\Java资料\my_git_repo\itstack-demo-design\itstack-demo-design-19-02\src\main\java\org\itstack\demo\design\Result.java

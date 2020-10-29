@@ -1,0 +1,5 @@
+org\itstack\demo\design\cuisine\impl\Level2AuthLink.class
+org\itstack\demo\design\AuthInfo.class
+org\itstack\demo\design\AuthLink.class
+org\itstack\demo\design\cuisine\impl\Level3AuthLink.class
+org\itstack\demo\design\cuisine\impl\Level1AuthLink.class

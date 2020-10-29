@@ -1,0 +1,11 @@
+org\itstack\demo\design\cuisine\ICuisine.class
+org\itstack\demo\design\XiaoEr.class
+org\itstack\demo\design\cuisine\impl\GuangDoneCuisine.class
+org\itstack\demo\design\cuisine\impl\ShanDongCuisine.class
+org\itstack\demo\design\cook\impl\ShanDongCook.class
+org\itstack\demo\design\cook\impl\SiChuanCook.class
+org\itstack\demo\design\cuisine\impl\JiangSuCuisine.class
+org\itstack\demo\design\cuisine\impl\SiChuanCuisine.class
+org\itstack\demo\design\cook\impl\JiangSuCook.class
+org\itstack\demo\design\cook\ICook.class
+org\itstack\demo\design\cook\impl\GuangDongCook.class

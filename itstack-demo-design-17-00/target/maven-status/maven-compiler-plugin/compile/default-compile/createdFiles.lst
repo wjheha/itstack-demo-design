@@ -1,0 +1,4 @@
+org\itstack\demo\design\ConfigOriginator.class
+org\itstack\demo\design\ConfigFile.class
+org\itstack\demo\design\Admin.class
+org\itstack\demo\design\ConfigMemento.class

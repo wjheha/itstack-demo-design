@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "itstack.door",
+      "type": "org.itstack.demo.design.door.config.StarterServiceProperties",
+      "sourceType": "org.itstack.demo.design.door.config.StarterServiceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "itstack.door.user-str",
+      "type": "java.lang.String",
+      "sourceType": "org.itstack.demo.design.door.config.StarterServiceProperties"
+    }
+  ],
+  "hints": []
+}

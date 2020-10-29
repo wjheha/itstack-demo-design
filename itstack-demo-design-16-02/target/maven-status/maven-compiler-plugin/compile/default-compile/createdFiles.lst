@@ -1,0 +1,12 @@
+org\itstack\demo\design\po\User.class
+org\itstack\demo\design\mediator\SqlSessionFactoryBuilder.class
+org\itstack\demo\design\dao\ISchoolDao.class
+org\itstack\demo\design\po\School.class
+org\itstack\demo\design\mediator\DefaultSqlSession.class
+org\itstack\demo\design\mediator\DefaultSqlSessionFactory.class
+org\itstack\demo\design\mediator\Resources.class
+org\itstack\demo\design\mediator\SqlSession.class
+org\itstack\demo\design\dao\IUserDao.class
+org\itstack\demo\design\mediator\SqlSessionFactory.class
+org\itstack\demo\design\mediator\XNode.class
+org\itstack\demo\design\mediator\Configuration.class

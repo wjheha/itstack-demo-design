@@ -1,0 +1,8 @@
+org\itstack\demo\desgin\factory\impl\EGMCacheAdapter.class
+org\itstack\demo\desgin\factory\JDKProxy.class
+org\itstack\demo\desgin\util\ClassLoaderUtils.class
+org\itstack\demo\desgin\factory\ICacheAdapter.class
+org\itstack\demo\desgin\CacheService.class
+org\itstack\demo\desgin\factory\impl\IIRCacheAdapter.class
+org\itstack\demo\desgin\factory\JDKInvocationHandler.class
+org\itstack\demo\desgin\impl\CacheServiceImpl.class

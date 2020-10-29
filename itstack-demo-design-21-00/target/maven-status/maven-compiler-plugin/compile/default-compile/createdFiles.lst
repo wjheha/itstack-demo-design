@@ -1,0 +1,5 @@
+org\itstack\demo\design\NetMall.class
+org\itstack\demo\design\impl\JDNetMall.class
+org\itstack\demo\design\impl\TaoBaoNetMall.class
+org\itstack\demo\design\HttpClient.class
+org\itstack\demo\design\impl\DangDangNetMall.class

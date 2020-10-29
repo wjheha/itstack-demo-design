@@ -1,0 +1,8 @@
+org\itstack\demo\design\coupon\CouponService.class
+org\itstack\demo\design\card\IQiYiCard.class
+org\itstack\demo\design\coupon\CouponResult.class
+org\itstack\demo\design\coupon\CouponInfo.class
+org\itstack\demo\design\goods\GoodsInfo.class
+org\itstack\demo\design\card\IQiYiCardService.class
+org\itstack\demo\design\goods\GoodsService.class
+org\itstack\demo\design\goods\DeliverReq.class

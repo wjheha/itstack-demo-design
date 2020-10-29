@@ -12,4 +12,11 @@
     <artifactId>itstack-demo-design-4-01</artifactId>
 
 
+    <dependencies>
+        <dependency>
+            <groupId>org.itstack</groupId>
+            <artifactId>itstack-demo-design-4-00</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>

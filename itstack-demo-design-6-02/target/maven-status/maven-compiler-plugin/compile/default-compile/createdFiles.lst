@@ -1,0 +1,5 @@
+org\itstack\demo\design\OrderAdapterService.class
+org\itstack\demo\design\cuisine\impl\InsideOrderService.class
+org\itstack\demo\design\cuisine\impl\POPOrderAdapterServiceImpl.class
+org\itstack\demo\design\MQAdapter.class
+org\itstack\demo\design\RebateInfo.class

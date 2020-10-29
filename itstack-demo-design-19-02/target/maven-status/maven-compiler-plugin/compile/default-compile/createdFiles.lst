@@ -1,0 +1,10 @@
+org\itstack\demo\design\impl\OpenState.class
+org\itstack\demo\design\Result.class
+org\itstack\demo\design\impl\DoingState.class
+org\itstack\demo\design\StateHandler.class
+org\itstack\demo\design\impl\EditingState.class
+org\itstack\demo\design\State.class
+org\itstack\demo\design\impl\PassState.class
+org\itstack\demo\design\impl\CheckState.class
+org\itstack\demo\design\impl\RefuseState.class
+org\itstack\demo\design\impl\CloseState.class

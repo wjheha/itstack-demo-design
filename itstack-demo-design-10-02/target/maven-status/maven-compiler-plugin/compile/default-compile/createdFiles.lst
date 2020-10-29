@@ -1,0 +1,6 @@
+org\itstack\demo\design\door\annotation\DoDoor.class
+org\itstack\demo\design\door\config\StarterService.class
+META-INF\spring-configuration-metadata.json
+org\itstack\demo\design\door\DoJoinPoint.class
+org\itstack\demo\design\door\config\StarterServiceProperties.class
+org\itstack\demo\design\door\config\StarterAutoConfigure.class

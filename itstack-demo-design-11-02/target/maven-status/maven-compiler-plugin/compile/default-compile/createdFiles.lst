@@ -1,0 +1,5 @@
+org\itstack\demo\design\Activity.class
+org\itstack\demo\design\ActivityFactory.class
+org\itstack\demo\design\ActivityController.class
+org\itstack\demo\design\Stock.class
+org\itstack\demo\design\util\RedisUtils.class

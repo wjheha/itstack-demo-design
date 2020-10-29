@@ -1,0 +1,5 @@
+org\itstack\demo\design\mq\OrderMq.class
+org\itstack\demo\design\mq\create_account.class
+org\itstack\demo\design\mq\POPOrderDelivered.class
+org\itstack\demo\design\service\OrderService.class
+org\itstack\demo\design\service\POPOrderService.class

@@ -1,0 +1,13 @@
+org\itstack\demo\design\domain\model\vo\TreeRoot.class
+org\itstack\demo\design\domain\service\engine\IEngine.class
+org\itstack\demo\design\domain\service\engine\impl\TreeEngineHandle.class
+org\itstack\demo\design\domain\service\engine\EngineConfig.class
+org\itstack\demo\design\domain\service\logic\BaseLogic.class
+org\itstack\demo\design\domain\service\logic\LogicFilter.class
+org\itstack\demo\design\domain\service\logic\impl\UserGenderFilter.class
+org\itstack\demo\design\domain\model\vo\TreeNodeLink.class
+org\itstack\demo\design\domain\service\engine\EngineBase.class
+org\itstack\demo\design\domain\model\vo\TreeNode.class
+org\itstack\demo\design\domain\service\logic\impl\UserAgeFilter.class
+org\itstack\demo\design\domain\model\vo\EngineResult.class
+org\itstack\demo\design\domain\model\aggregates\TreeRich.class

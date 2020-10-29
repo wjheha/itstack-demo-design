@@ -1,0 +1,5 @@
+org\itstack\demo\design\store\impl\CouponCommodityService.class
+org\itstack\demo\design\store\impl\GoodsCommodityService.class
+org\itstack\demo\design\store\impl\CardCommodityService.class
+org\itstack\demo\design\StoreFactory.class
+org\itstack\demo\design\store\ICommodity.class
